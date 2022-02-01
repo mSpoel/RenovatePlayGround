@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <PackageReference Include="Colorful.Console" Version="1.2.10" />
+    <PackageReference Include="Sundio.Build" Version="5.0.0" />
   </ItemGroup>
 
 </Project>
